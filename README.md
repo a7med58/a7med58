@@ -19,7 +19,7 @@ Study "CCNA - MCSE - Security+ - CEH-CHFI-CDN-Linux- Firewall-Threat Hunting & I
 
 - 📫 How to reach me **a7med_58@hotmail.com**
 
-- 📄 Know about my experiences [LinkedIn Profile]
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmedragab58/]
 
 - 🤓 Always **learning new things**
 
