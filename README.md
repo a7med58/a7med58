@@ -36,13 +36,9 @@ Study "CCNA - MCSE - Security+ - CEH-CHFI-CDN-Linux- Firewall-Threat Hunting & I
 <a href="https://www.facebook.com/theeagle58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lover.night2/" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmedmr1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedmr1/" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedragab_63843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedragab_63843" height="30" width="40" /></a>
-</p>
 <a href="https://www.hackthebox.com/home/users/profile/242371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedragab_63843" height="30" width="40" /></a>
-</p>
 <a href="https://hackerone.com/theeagile?type=user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedragab_63843" height="30" width="40" /></a>
-</p>
 <a href="https://tryhackme.com/p/theeagleeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedragab_63843" height="30" width="40" /></a>
-</p>
 <a href="https://blueteamlabs.online/home/user/9e3c04729d6486b240ab2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedragab_63843" height="30" width="40" /></a>
 </p>
 
