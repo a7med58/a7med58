@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IT Manager “Electronic & Knowledge Services Centre - Faculty Of Agriculture ” at Cairo University**
 
-- 🌱 I’m currently learning **Threat Hunt, Incident Response, Digital Forensics, Security Operations and Threat Intelligence**
+- 🌱 I’m currently learning **Frontend Developer, Threat Hunt, Incident Response, Digital Forensics, Security Operations and Threat Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a7med58](https://github.com/a7med58)
 
