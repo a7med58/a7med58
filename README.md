@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ragab</h1>
-<h3 align="center">Threat Hunt, Incident Response, Digital Forensics, Security Operations and Threat Intelligence</h3>
+<h3 align="center">Threat Hunt, Incident Response, Digital Forensics, Security Operations and Threat Intelligence, Frontend Developer, Flutter Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7med58" alt="a7med58" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mamo23549442" target="blank"><img src="https://img.shields.io/twitter/follow/mamo23549442?logo=twitter&style=for-the-badge" alt="mamo23549442" /></a> </p>
 
 - 🔭 I’m currently working on **IT Manager “Electronic & Knowledge Services Centre - Faculty Of Agriculture ” at Cairo University**
@@ -23,14 +22,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/a7med58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/a7med58" height="30" width="40" /></a>
 <a href="https://twitter.com/mamo23549442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamo23549442" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedragab58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ahmedragab58/" height="30" width="40" /></a>
+<a href="https://codepen.io/a7med58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/a7med58" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/a7med58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/a7med58" height="30" width="40" /></a>
-<a href="https://www.facebook.com/theeagle58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theeagle58" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmedmr1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ahmedmr1/" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedragab_63843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedragab_63843" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a7med_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/a7med_58" height="30" width="40" /></a>
+<a href="https://www.facebook.com/theeagle58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theeagle58" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmedmr1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ahmedmr1/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
